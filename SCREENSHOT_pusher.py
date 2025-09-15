@@ -5,7 +5,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # Конфигурация
-TELEGRAM_BOT_TOKEN = '7461307559:AAE_SUxxRMXibmN3fh-_ikl6tV6o52F3Abo'
+TELEGRAM_BOT_TOKEN = '___________________________'
 TELEGRAM_CHAT_ID = '-4883529011'  # Можно узнать у @userinfobot
 FOLDER_TO_WATCH = 'C:/Jira_Attachments/PLAT-95123'  # Путь к папке, которую мониторим
 

@@ -1,7 +1,7 @@
 ﻿# Параметры подключения
 $baseUrl = "https://sd.v-serv.ru/jira"
 $issueKey = "PLAT-110405"
-$token = "ODE2NjI3MzkyMjM5OlNgw93E++MP7i56u47A2pOJ3Pne"
+$token = "_______________________________"
 
 # Настройка обработки SSL/TLS (для обхода проверки сертификата)
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12
