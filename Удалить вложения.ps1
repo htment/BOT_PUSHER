@@ -1,5 +1,5 @@
 ﻿# Параметры подключения
-$baseUrl = "https://sd.v-serv.ru/jira"
+$baseUrl = "https://swd.v-ru/jira"
 $issueKey = "PLAT-110405"
 $token = "ваш токен"
 
